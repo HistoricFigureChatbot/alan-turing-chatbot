@@ -1,0 +1,12 @@
+alan turing
+    british mathemematician and comupoter scientist
+    -the father of comp sci
+
+include:
+    turing test - game?? - interactive
+    -cracked enigma
+    -laid ground work for AI
+    -persecuted for his sexuality
+    -cryptograpgy
+    
+
